@@ -1,0 +1,30 @@
+.root {
+  padding: 2rem;
+  align-content: center;
+}
+
+.characteristics {
+  float: left;
+  margin: auto;
+  text-align: center;
+  border-style: solid;
+  border-width: 6px;
+  border-color: black;
+  width: min-content;
+  height: auto;
+  color: deepskyblue;
+}
+
+.agent-image {
+  float: left;
+  margin: auto;
+  border-color: black;
+  border-style: solid;
+  width: auto;
+  height: min-content;
+}
+
+img {
+  width: 18.75rem;
+  height: min-content;
+}

@@ -1,0 +1,21 @@
+.characteristic {
+    align-items: center;
+    border: black;
+    border-radius: 1rem;
+    border-style: solid;
+    row-gap: 0;
+    column-gap: 0;
+    width: 10rem;
+}
+
+.main-value {
+    height: 4rem;
+    width: 4rem;
+    font-size: 3rem;
+}
+
+.secondary-value {
+    height: 2rem;
+    width: 2rem;
+    font-size: 1.25rem;
+}
